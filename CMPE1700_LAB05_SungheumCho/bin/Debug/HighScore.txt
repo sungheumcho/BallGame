@@ -1,0 +1,7 @@
+sungheum,Easy,12600
+wdasd,Hard,14000
+,Easy,13000
+,Hard,14300
+,Easy,12000
+,Easy,12400
+Dickhead,Hard,14500
